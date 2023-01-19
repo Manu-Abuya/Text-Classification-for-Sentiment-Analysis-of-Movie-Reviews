@@ -1,10 +1,10 @@
 # Text-Classification-for-Sentiment-Analysis-of-Movie-Reviews
 
-Project Description
+## Project Description
 
 This project focuses on performing sentiment analysis of movie reviews using natural language processing and machine learning techniques. The goal is to determine the sentiment (positive or negative) of a written movie review, which can be useful for understanding the general public's opinion of a movie and identifying specific aspects that viewers liked or disliked.
 
-Project Tasks
+### Project Tasks
 
     Data Collection: Gather a dataset of movie reviews by scraping websites such as IMDb or Rotten Tomatoes or using a publicly available dataset.
     Data Preprocessing: Preprocess the reviews to remove irrelevant information and standardize formatting by cleaning text, lowercasing words, removing       stop words, and stemming or lemmatizing remaining words.
